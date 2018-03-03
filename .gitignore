@@ -1,2 +1,5 @@
 *.ini
 *.config
+**/node_modules
+/visual
+/_test

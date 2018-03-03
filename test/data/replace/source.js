@@ -1,0 +1,1 @@
+['a']=['document']['getElementById']('a');['a']['innerHTML']='hello world';
